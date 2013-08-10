@@ -18,7 +18,9 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "commander": "~2.0.0"
+    "commander": "~2.0.0",
+    "underscore": "~1.5.1",
+    "underscore.string": "~2.3.3"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
