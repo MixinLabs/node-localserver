@@ -14,7 +14,7 @@
     
     program
         .version('0.1.0')
-        .option('-p, --port [port]', _.sprintf('Start static server on specified port. Defaults to "%d"', defaults.port), defaults.port)
+        .option('-p, --port [port]', _.sprintf('Start the server on specified port. Defaults to "%d"', defaults.port), defaults.port)
         .option('--index [index]', _.sprintf('Specify index file. Defaults to "%s"', defaults.index), defaults.index)
         .option('--favicon [favicon]', 'If specified, will log a request to "/favicon.ico".')
         .parse(process.argv);
