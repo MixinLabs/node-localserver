@@ -4,6 +4,7 @@
   "description": "Local Static HTTP Server",
   "main": "lib/server.js",
   "bin": "bin/localserver.js",
+  "homepage": "https://github.com/MixinLabs/node-localserver#localserver---static-http-server-utility",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
