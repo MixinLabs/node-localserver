@@ -1,5 +1,7 @@
 # LocalServer - Static HTTP Server Utility
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MixinLabs/node-localserver/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 Version: `0.1.3`
 
 License: [MIT](http://opensource.org/licenses/MIT)
