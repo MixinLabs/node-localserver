@@ -30,5 +30,5 @@ You don't need to restart the server every time you make a file change, as it re
 
 ## TODO
 
-- [ ] Ability to specify caching headers
-- [ ] `.localserver.yml` config file support
+- [] Ability to specify caching headers
+- [] `.localserver.yml` config file support
