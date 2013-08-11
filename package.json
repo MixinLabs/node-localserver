@@ -1,6 +1,6 @@
 {
   "name": "localserver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Local Static HTTP Server",
   "main": "lib/server.js",
   "bin": "bin/localserver.js",
