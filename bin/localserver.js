@@ -13,7 +13,7 @@
     _.mixin(require('underscore.string').exports());
     
     program
-        .version('0.1.1')
+        .version('0.1.2')
         .option('-p, --port [port]', _.sprintf('Start the server on specified port. Defaults to "%d"', defaults.port), defaults.port)
         .option('--index [index]', _.sprintf('Specify index file. Defaults to "%s"', defaults.index), defaults.index)
         .option('--favicon [favicon]', 'If specified, will log a request to "/favicon.ico".')

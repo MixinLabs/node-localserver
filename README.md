@@ -1,6 +1,6 @@
 # LocalServer - Static HTTP Server Utility
 
-Version: `0.1.1`
+Version: `0.1.2`
 
 License: [MIT](http://opensource.org/licenses/MIT)
 
