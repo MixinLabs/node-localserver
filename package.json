@@ -7,6 +7,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/MixinLabs/node-localserver.git"
+  },
   "keywords": [
     "local",
     "static",
@@ -16,7 +20,7 @@
   ],
   "author": "Arturas Lebedevas <nsmeta@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "commander": "~2.0.0",
     "underscore": "~1.5.1",
