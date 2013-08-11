@@ -17,7 +17,7 @@
         .option('--index [index]', _.sprintf('Specify index file, defaults to "%s"', defaults.index), defaults.index)
         .parse(process.argv);
         
-    localserver.startServer({
+    new localserver.LocalServer({
         port: program.port,
         index: program.index
     });
