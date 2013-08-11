@@ -1,6 +1,8 @@
 # LocalServer - Static HTTP Server Utility
 
-Version: `0.1.0`  
+Version: `0.1.0`
+
+Install: `npm install -g localserver`
 
 ## What is this?
 
@@ -11,10 +13,6 @@ I wrote it so that I would have an easy to use static HTTP server when developin
 You don't need to restart the server every time you make a file change, as it reads the requested files with each request.
 
 *Note:* I am aware I could have implemented this using `connect`'s full featured static server instead, but I didn't. Why? For fun, of course!
-
-## Installing
-
-`npm instal -g localserver`
 
 ## Usage
 
