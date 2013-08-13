@@ -34,3 +34,7 @@ You don't need to restart the server every time you make a file change, as it re
 
 - Ability to specify caching headers
 - `.localserver.yml` config file support
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MixinLabs/node-localserver/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
